@@ -23,62 +23,18 @@ Atualmente, estou aprofundando conhecimentos nas seguintes áreas e ferramentas:
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 📦 `etl-vendas-supermercado`
-**Descrição**: Pipeline completo de ETL usando Python e Pandas com dados simulados de um supermercado.
-
-- Extração de múltiplos arquivos `.csv`
-- Transformações com limpeza e padronização
-- Armazenamento em PostgreSQL
-- Dashboard no Power BI
-
-🔗 [Repositório no GitHub](#)
-
----
-
-### 🌐 `webscraping-astronomia`
-**Descrição**: Projeto pessoal com foco em Web Scraping de dados da NASA e sites astronômicos.
-
-- Extração de dados com `BeautifulSoup`
-- Automatização de coleta diária com `schedule`
-- Armazenamento em `.json` e `.csv`
-
-🔗 [Repositório no GitHub](#)
-
----
-
-### 🧠 `formacoes-educacionais-bi`
-**Descrição**: Relatórios interativos baseados em dados de alunos e cursos. Foco em análise de engajamento e evasão.
-
-- Construído com Power BI
-- Conectado a base de dados SQL Server
-- Dashboards interativos e responsivos
-
-🔗 [Repositório no GitHub](#)
-
----
-
 ## 🛠️ Outras Iniciativas e Estudos
 - 🎓 Curso de Ciência de Dados
 - 🧮 SQL para Análise de Dados
 - 🔄 Gestão de Dados e Qualidade
 - 📚 Python + Power BI para insights visuais
-
----
-
-## 📈 Próximos Passos
-- Criar pipeline com Airflow em container Docker
-- Explorar ferramentas de orquestração e monitoramento (dbt, Prefect)
-- Montar estrutura em GCP com Cloud Storage + BigQuery
-
 ---
 
 ## 📫 Contato
 Se quiser conversar sobre dados, projetos ou colaborações, me encontra aqui:
 
-- LinkedIn: [linkedin.com/in/italorufca](https://linkedin.com/in/italorufca)
-- GitHub: [github.com/italorufca](https://github.com/italorufca)
+- LinkedIn: [linkedin.com/in/italo-rufca](https://linkedin.com/in/italo-rufca)
+- GitHub: [github.com/ItaloRufca](https://github.com/ItaloRufca)
 
 ---
 
